@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicepalculate",
+        "uuid": 6994800,
+        "checksum": "5um8q4"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
